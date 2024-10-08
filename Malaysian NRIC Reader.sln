@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malaysian NRIC Reader", "Malaysian NRIC Reader.csproj", "{B366E3DD-35A9-40BD-80DE-6BA44D5405C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B366E3DD-35A9-40BD-80DE-6BA44D5405C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B366E3DD-35A9-40BD-80DE-6BA44D5405C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B366E3DD-35A9-40BD-80DE-6BA44D5405C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B366E3DD-35A9-40BD-80DE-6BA44D5405C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EE0467-0C87-4B27-85E8-CB3210725FBD}
+	EndGlobalSection
+EndGlobal
